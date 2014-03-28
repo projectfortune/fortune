@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 namespace ExpenseBook.Data
 {
     public class ExpenseRepository : Repository<Expense>, IExpenseRepository
-    {
+    { 
 
     }
 }
