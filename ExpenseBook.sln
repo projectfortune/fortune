@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpenseBook", "ExpenseBook\ExpenseBook.csproj", "{1F43C2BD-1775-44E1-A6E7-E2FF0D577164}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpenseBook.Model", "ExpenseBook.Model\ExpenseBook.Model.csproj", "{BF7F69B8-4672-4C10-B66F-D6C3B1FF2637}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpenseBook.Data", "ExpenseBook.Data\ExpenseBook.Data.csproj", "{3CD15B81-DF47-4F38-AFF3-14D267773869}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F43C2BD-1775-44E1-A6E7-E2FF0D577164}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F43C2BD-1775-44E1-A6E7-E2FF0D577164}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F43C2BD-1775-44E1-A6E7-E2FF0D577164}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F43C2BD-1775-44E1-A6E7-E2FF0D577164}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF7F69B8-4672-4C10-B66F-D6C3B1FF2637}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF7F69B8-4672-4C10-B66F-D6C3B1FF2637}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF7F69B8-4672-4C10-B66F-D6C3B1FF2637}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF7F69B8-4672-4C10-B66F-D6C3B1FF2637}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CD15B81-DF47-4F38-AFF3-14D267773869}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CD15B81-DF47-4F38-AFF3-14D267773869}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CD15B81-DF47-4F38-AFF3-14D267773869}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CD15B81-DF47-4F38-AFF3-14D267773869}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
